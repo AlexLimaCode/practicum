@@ -8,7 +8,7 @@ html, body{
 }
 
 body{
-  background: #030321;
+  background: #111312;
   font-family: 'Montserrat';
 }
 a, h6{
@@ -34,27 +34,27 @@ svg {
 }
 
 .text-copy:nth-child(1){
-	stroke: #4D163D;
+	stroke: #eeff00;
 	animation-delay: -1;
 }
 
 .text-copy:nth-child(2){
-	stroke: #840037;
+	stroke: #2dffed;
 	animation-delay: -2s;
 }
 
 .text-copy:nth-child(3){
-	stroke: #BD0034;
+	stroke: #eeff00;
 	animation-delay: -3s;
 }
 
 .text-copy:nth-child(4){
-	stroke: #BD0034;
+	stroke: #2dffed;
 	animation-delay: -4s;
 }
 
 .text-copy:nth-child(5){
-	stroke: #FDB731;
+	stroke: #eeff00;
 	animation-delay: -5s;
 }
 
@@ -63,8 +63,9 @@ svg {
 }
 
 
-h1,h2,h3,h4,h5,h6,a,p, label{
-    color: white;   
+h1,h2,h3,h4,h5,h6,a,p,li, label{
+    color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
 } 
 
 .textnav{
